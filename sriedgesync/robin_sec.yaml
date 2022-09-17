@@ -1,9 +1,4 @@
 apiVersion: v1
-kind: Namespace
-metadata:
-  name: robinio
----
-apiVersion: v1
 kind: Secret
 type: Opaque
 data:
